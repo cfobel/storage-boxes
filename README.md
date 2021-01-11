@@ -86,3 +86,7 @@ The interesting bits of code:
 [models.make_storage_box]: https://github.com/cfobel/storage-boxes/blob/main/src/storage_boxes/models.py#L52
 [models.make_storage_tray]: https://github.com/cfobel/storage-boxes/blob/main/src/storage_boxes/models.py#L97
 [box-parameters]: https://github.com/cfobel/storage-boxes/blob/main/src/storage_boxes/types.py#L10
+
+# License
+
+Licensed under the [MIT license](LICENSE.md).
